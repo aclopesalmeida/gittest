@@ -2,5 +2,11 @@ package com.example.gittest;
 
 public class House {
 
-    Integer numbeerRooms;
+    String somethingelse:
+
+    public House(Integer numbeerRooms) {
+        this.numbeerRooms = numbeerRooms;
+    }
+
+
 }
