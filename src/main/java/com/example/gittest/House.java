@@ -2,6 +2,13 @@ package com.example.gittest;
 
 public class House {
 
+    String somethingelse:
+
+    public House(Integer numbeerRooms) {
+        this.numbeerRooms = numbeerRooms;
+    }
+
+
     Integer numbeerRooms;
     Float size;
     String amen;
